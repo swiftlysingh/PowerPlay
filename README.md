@@ -12,9 +12,8 @@ PowerPlay is an app for cricket enthusiasts. The app will show the scores for li
 ## 📸 Screenshots
 
 <span>
-  <img src="Assets/Home.png" width="24%"/> &nbsp
-  <img src="Assets/Detail.png" width="24%"/> &nbsp
-  <img src="Assets/About.png" width="24%"/>
+  <img src="https://github.com/swiftlysingh/PowerPlay/assets/47032662/20b05ffa-214b-4285-86b6-9c7d7ae74369" width="24%"/> &nbsp
+  <img src="https://github.com/swiftlysingh/PowerPlay/assets/47032662/21e16662-8d0d-48d1-983a-d676850a81eb" width="24%"/> &nbsp
 </span>
 
 ## 👾 Technologies
