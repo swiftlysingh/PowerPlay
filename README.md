@@ -5,7 +5,7 @@
 
 # [](https://github.com/swiftlysingh/PowerPlay)PowerPlay
 
-### [](https://github.com/swiftlysingh/PowerPlay) Real-time Cricket 🏏
+### [](https://github.com/swiftlysingh/PowerPlay) Live Activities for Cricket 🏏⚾
 
 PowerPlay is an app for cricket enthusiasts. The app will show the scores for live cricket matches directly on iOS lock screen using Live Activity thanks to ActivityKit framework. The app uses a custom backend specifically designed to handle live activities with a near realtime refresh rate. This backend is hosted on-premise for best performance to cost ratio.
 
